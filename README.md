@@ -39,3 +39,12 @@ Type **bye** to exit.
 - [x] Conclusion
 
 The architecture is intentionally kept simple and readable, following the SLE-3 guideline.
+
+## SLE-2 – Empirical Performance Analysis
+
+The SLE-2 profiling work compares **BFS and DFS** on the same 15-node graph using execution time and nodes expanded.
+
+### SLE-2 Files
+- [SLE2_Profile.py](./SLE2_Profile.py) – BFS vs DFS profiling program
+- [SLE2_Report_25UAM065.md](./SLE2_Report_25UAM065.md) – SLE-2 profiling report
+- [SLE2_AI_Log.md](./SLE2_AI_Log.md) – AI contribution log

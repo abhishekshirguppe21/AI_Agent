@@ -75,3 +75,7 @@ The SLE-2 experiment provides an empirical comparison of BFS and DFS using two m
 - [SLE2_Profile.py](./SLE2_Profile.py) – BFS vs DFS profiling program
 - [SLE2_Report_25UAM065.md](./SLE2_Report_25UAM065.md) – Complete SLE-2 profiling report
 - [SLE2_AI_Log.md](./SLE2_AI_Log.md) – AI contribution log
+
+## SLE-4 – Final Viva & Architecture Decision Record (ADR)
+
+- [SLE4_25UAM065_Abhishek_Shirguppe.md](./SLE4_25UAM065_Abhishek_Shirguppe.md) – ADR, SLE journey summary, AI contribution note, and viva preparation notes

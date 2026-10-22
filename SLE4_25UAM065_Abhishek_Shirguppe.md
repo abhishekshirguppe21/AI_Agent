@@ -15,7 +15,7 @@
 
 **Status:** Accepted  
 **Date:** 17 October 2026  
-**PRN & Name:** 25UAM065 – Abhishek Ajit Shirguppe
+**PRN & Name:** 25UAM065 – Abhishek Shirguppe
 
 ### 1. Context
 
@@ -71,12 +71,3 @@ In SLE-1, I created a basic Python rule-based AI agent that responds to simple q
 - **AI tools used:** ChatGPT / AI assistance.
 - **What AI helped with:** Organizing the ADR sections, explaining the alternatives and trade-offs, and drafting the viva preparation points.
 - **What I did myself:** I am responsible for checking the report against my repository, understanding the BFS/DFS profiling results, verifying the final wording, and explaining the decision during viva. The recorded profiling figures are taken from the repository's SLE-2 report.
-
-## PART D: Viva Preparation Notes
-
-1. **Why choose BFS?** In my test, BFS expanded 4 nodes and took an average of 0.001000 ms per search, compared with 15 nodes and 0.002293 ms for DFS.
-2. **Why not DFS?** DFS expanded more nodes in this particular graph. It may still be useful for other problems.
-3. **What did profiling measure?** Average execution time and the number of nodes expanded.
-4. **Is BFS always faster than DFS?** No. Results depend on the graph, traversal order, goal location, implementation, and execution environment.
-5. **What is an ADR?** An Architecture Decision Record explains a design decision, the alternatives considered, the reason for the choice, and its consequences.
-6. **What is C4?** It is a way to describe software architecture at Context, Container, Component, and Code levels. I should explain the specific modules shown in my own SLE-3 diagrams.
